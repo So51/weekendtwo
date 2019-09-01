@@ -1,0 +1,2 @@
+console.log(new Date ());
+window.alert("„—Õ»« »ﬂ„ ›Ì «·Ã«›« ”ﬂ—» " + new Date);
